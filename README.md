@@ -57,8 +57,7 @@ docker exec -it blog-api-app-1 php artisan l5-swagger:generate
 ```
 http://localhost:8080/api/documentation
 ```
-![1](s_1.png)  
-
+![1](blog-api/s_1.png)
 ---
 
 ## Аутентификация
@@ -108,8 +107,8 @@ docker exec -it blog-api-app-1 php artisan test`
 
 ---
 ### Примеры работы
-![2](s_2.png)  
-![3](s_3.png)  
-![4](s_4.png) 
-![5](s_5.png) 
-![6](s_6.png) 
+![2](blog-api/s_2.png)  
+![3](blog-api/s_3.png)  
+![4](blog-api/s_4.png) 
+![5](blog-api/s_5.png) 
+![6](blog-api/s_6.png) 
